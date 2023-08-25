@@ -288,6 +288,12 @@ ul {
   width: 344px;
   height: 456px;
 }
+.procedure__mask-title {
+  font-size: 22px;
+  font-weight: 400;
+  padding: 372px 77px 32px 115px;
+  line-height: 1.18;
+}
 .procedures__Injections {
   border-radius: 4px 120px;
   background: linear-gradient(
