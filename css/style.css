@@ -241,6 +241,7 @@ ul {
   flex-direction: column;
   justify-content: center;
   width: 316px;
+  gap: 8px;
   align-items: center;
   padding: 24px 32px;
   border: 1px solid red;
